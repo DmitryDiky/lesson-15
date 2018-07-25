@@ -1,0 +1,74 @@
+body {
+  font-family: 'Tahoma', sans-serif; }
+
+.container {
+  width: 1140px;
+  margin: 0 auto; }
+
+.wrapper {
+  display: flex;
+  align-items: center; }
+
+.book {
+  height: 100%;
+  width: 100%;
+  margin-right: 80px;
+  margin-bottom: 90px;
+  padding-top: 80px; }
+
+.header_title {
+  text-align: left; }
+
+h1 {
+  font-weight: bold;
+  font-size: 48px; }
+
+.header_title-two {
+  font-size: 30px;
+  margin: 15px 0; }
+
+.descr {
+  font-size: 18px;
+  margin: 30px 0; }
+
+.prace {
+  font-size: 48px;
+  margin-bottom: 60px; }
+
+button {
+  padding: 15px 40px;
+  border: 2px solid #f05a22;
+  background: #f05a22;
+  border-radius: 5px;
+  margin-right: 40px; }
+  button a {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff; }
+
+.button-o {
+  background: transparent; }
+  .button-o a {
+    color: #f05a22; }
+
+.bg {
+  background: #f2f2f2;
+  padding: 80px 0; }
+
+.container__title {
+  font-size: 30px;
+  font-width: bold;
+  text-align: center;
+  margin-bottom: 85px; }
+
+.box_card p {
+  font-family: 'OpenSans', sans-serif; }
+
+.wrap_card {
+  display: flex;
+  justify-content: space-between;
+  text-align: center; }
+
+.wrap_img {
+  min-height: 55px; }
